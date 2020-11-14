@@ -4,7 +4,7 @@ h1{
     display: flex;
     justify-content: center;
     /* background-color: rgb(247, 193, 193); */
-    text-shadow: mediumslateblue 4px 3px 0px;
+    text-shadow: #7B68EE 4px 3px 0px;
     
 }
 .notice{
@@ -19,23 +19,23 @@ img{
     
 }
     a:link{
-        color: white;
+        color: #FFFFFF;
     }
     a:visited{
-        color: grey;
+        color: #808080;
     }
 *{
     background-image: url("images/back.gif");
     font-family: "mv boli"
 }
 h2{
-    color: white;
+    color: #FFFFFF;
     border-style: inset;
     display: flex;
     justify-content: center;
 }
 h3{
-    color: white;
+    color: #FFFFFF;
     border-style: inset;
 }
 p{
@@ -45,7 +45,7 @@ p{
     background-size: cover;
     background-image: url("images/flower.jpg");
     /* background-image: linear-gradient(darkblue, black); */
-    color: white;
+    color: #FFFFFF;
     border-color: #00008B;
     border: 10px;
     border-style: inset;
@@ -57,7 +57,7 @@ p{
     background-image: url("images/bg.gif");
 }
 .item{
-    color: white;
+    color: #FFFFFF;
     border: solid;
     background-image: url("images/bg.gif");
     padding: 50px;
